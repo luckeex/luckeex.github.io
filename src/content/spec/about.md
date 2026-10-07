@@ -1,7 +1,7 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+Information Security Consultant
 
-::github{repo="saicaca/fuwari"}
+::github{repo="luckeex"}
 
 > ### Sources of images used in this site
 > - [Unsplash](https://unsplash.com/)
